@@ -29,5 +29,6 @@ public class MainActivity extends AppCompatActivity {
 
         //beginning of rebase part 2
         //line 1 rebase 2
+        //line 2 rebase 2
     }
 }
