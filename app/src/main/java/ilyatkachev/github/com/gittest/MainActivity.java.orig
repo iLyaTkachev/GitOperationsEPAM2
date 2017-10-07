@@ -17,10 +17,14 @@ public class MainActivity extends AppCompatActivity {
 
         //beginning of rebase part
         //line 1 from feature for rebase
-<<<<<<< HEAD
-        //line 2 from master
-=======
         //line 2 from feature for rebase
->>>>>>> added line 2 on feature for rebase
+        //line 2 from master
+        //end of rebasing
+
+<<<<<<< HEAD
+        //line before cherry pick
+=======
+        //CherryPick line
+>>>>>>> 2f7af19... added line on cherry pick feature
     }
 }
