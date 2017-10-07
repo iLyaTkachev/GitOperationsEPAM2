@@ -31,5 +31,7 @@ public class MainActivity extends AppCompatActivity {
         //line 1 rebase 2
         //line 2 rebase 2
         //end of rebasing 2
+
+        //stash line
     }
 }
