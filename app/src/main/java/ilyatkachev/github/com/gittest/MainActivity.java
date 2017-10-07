@@ -19,5 +19,6 @@ public class MainActivity extends AppCompatActivity {
         //line 1 from feature for rebase
         //line 2 from feature for rebase
         //line 2 from master
+        //end of rebasing
     }
 }
