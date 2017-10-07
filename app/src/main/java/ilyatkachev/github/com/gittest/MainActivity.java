@@ -12,6 +12,7 @@ public class MainActivity extends AppCompatActivity {
 
         //line 1 from master
         //feature 1
+        //feature 3
         ////feature 2
     }
 }

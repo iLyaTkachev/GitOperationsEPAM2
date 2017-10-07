@@ -13,8 +13,9 @@ public class MainActivity extends AppCompatActivity {
         //line 1 from master
 <<<<<<< HEAD
         //feature 1
-=======
         ////feature 2
->>>>>>> feature/2
+=======
+        //feature 3
+>>>>>>> feature/3
     }
 }
