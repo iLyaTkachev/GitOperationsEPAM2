@@ -1,0 +1,3 @@
+[submodule "EPAMHelloWorld"]
+	path = EPAMHelloWorld
+	url = https://github.com/iLyaTkachev/EPAMHelloWorld.git
