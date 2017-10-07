@@ -28,5 +28,6 @@ public class MainActivity extends AppCompatActivity {
         //end of cherry pick (cherry pick 2 made with android studio instead of source tree)
 
         //beginning of rebase part 2
+        //line 1 rebase 2
     }
 }
