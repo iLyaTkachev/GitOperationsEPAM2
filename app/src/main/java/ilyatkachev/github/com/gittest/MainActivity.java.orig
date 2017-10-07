@@ -11,11 +11,15 @@ public class MainActivity extends AppCompatActivity {
         setContentView(R.layout.activity_main);
 
         //line 1 from master
-<<<<<<< HEAD
         //feature 1
-        ////feature 2
-=======
         //feature 3
->>>>>>> feature/3
+        ////feature 2
+
+        //beginning of rebase part
+<<<<<<< HEAD
+        //line 2 from master
+=======
+        //line 1 from feature for rebase
+>>>>>>> added line 1 on feature for rebase
     }
 }
