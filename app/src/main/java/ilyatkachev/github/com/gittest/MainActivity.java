@@ -33,5 +33,7 @@ public class MainActivity extends AppCompatActivity {
         //end of rebasing 2
 
         //stash line
+
+        //line from conflict brach
     }
 }
