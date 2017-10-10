@@ -35,5 +35,7 @@ public class MainActivity extends AppCompatActivity {
         //stash line
 
         //new line from master for conflict
+
+        //line from conflict brach
     }
 }
