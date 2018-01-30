@@ -38,5 +38,6 @@ public class MainActivity extends AppCompatActivity {
         //line from conflict brach
 
         //line1 from dev1
+        //line2 from dev2
     }
 }
